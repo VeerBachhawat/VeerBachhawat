@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veer Bachhawat</h1>
-<h3 align="center">I'm currently 3rd Year CSE Student</h3>
+<h3 align="center">I'm currently Final Year CSE Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veerbachhawat&label=Profile%20views&color=0e75b6&style=flat" alt="veerbachhawat" /> </p>
 
